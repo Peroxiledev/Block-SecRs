@@ -1,2 +1,2 @@
 # Blockchain
-This is where i ship all myweb3 codes
+For all Web3 Developments
