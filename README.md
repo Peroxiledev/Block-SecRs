@@ -1,2 +1,2 @@
 # Blockchain
-For all Web3 Developments
+Web3 Projects
